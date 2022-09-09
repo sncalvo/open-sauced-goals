@@ -2,62 +2,62 @@
   {
     "full_name": "solidjs/solid-docs-next",
     "stargazers_count": 68,
-    "open_issues_count": 39,
-    "forks_count": 37
+    "open_issues_count": 40,
+    "forks_count": 39
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 1135,
+    "stargazers_count": 1146,
     "open_issues_count": 38,
     "forks_count": 87
   },
   {
     "full_name": "whoisryosuke/solid-skia-renderer",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 14100,
-    "open_issues_count": 94,
-    "forks_count": 647
+    "stargazers_count": 14259,
+    "open_issues_count": 91,
+    "forks_count": 653
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 203,
-    "open_issues_count": 3,
-    "forks_count": 5
+    "stargazers_count": 208,
+    "open_issues_count": 4,
+    "forks_count": 4
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 25353,
-    "open_issues_count": 2273,
-    "forks_count": 906
+    "stargazers_count": 25421,
+    "open_issues_count": 2257,
+    "forks_count": 908
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 18950,
-    "open_issues_count": 164,
-    "forks_count": 882
+    "stargazers_count": 19189,
+    "open_issues_count": 147,
+    "forks_count": 892
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 3913,
-    "open_issues_count": 9,
-    "forks_count": 74
+    "stargazers_count": 3951,
+    "open_issues_count": 8,
+    "forks_count": 76
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 5953,
-    "open_issues_count": 8,
-    "forks_count": 248
+    "stargazers_count": 6040,
+    "open_issues_count": 6,
+    "forks_count": 256
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 29596,
-    "open_issues_count": 35,
-    "forks_count": 1768
+    "stargazers_count": 29664,
+    "open_issues_count": 38,
+    "forks_count": 1775
   },
   {
     "full_name": "eagerworks/sequelize-lambda-migrations",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 33509,
-    "open_issues_count": 376,
-    "forks_count": 775
+    "stargazers_count": 33649,
+    "open_issues_count": 374,
+    "forks_count": 779
   },
   {
     "full_name": "hoppergee/solidservice",
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 21851,
+    "stargazers_count": 21933,
     "open_issues_count": 16,
-    "forks_count": 557
+    "forks_count": 562
   },
   {
     "full_name": "thoughtbot/react-native-liftoff",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "JoshuaSenouf/gl-engine",
-    "stargazers_count": 312,
+    "stargazers_count": 314,
     "open_issues_count": 2,
     "forks_count": 42
   },
@@ -109,14 +109,14 @@
   },
   {
     "full_name": "rust-lang/rfcs",
-    "stargazers_count": 4644,
+    "stargazers_count": 4651,
     "open_issues_count": 680,
-    "forks_count": 1388
+    "forks_count": 1390
   },
   {
     "full_name": "google/mediapipe",
-    "stargazers_count": 18588,
-    "open_issues_count": 443,
-    "forks_count": 3914
+    "stargazers_count": 18617,
+    "open_issues_count": 459,
+    "forks_count": 3920
   }
 ]
