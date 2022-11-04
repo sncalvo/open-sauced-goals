@@ -13,39 +13,39 @@
   },
   {
     "full_name": "AFornio/ruby-one-liners",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 1743,
-    "open_issues_count": 13,
-    "forks_count": 82
+    "stargazers_count": 1756,
+    "open_issues_count": 15,
+    "forks_count": 84
   },
   {
     "full_name": "ardeora/solid-query",
-    "stargazers_count": 26,
+    "stargazers_count": 25,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 6676,
+    "stargazers_count": 6707,
     "open_issues_count": 2,
-    "forks_count": 707
+    "forks_count": 720
   },
   {
     "full_name": "solidjs/solid-docs-next",
-    "stargazers_count": 75,
-    "open_issues_count": 44,
+    "stargazers_count": 78,
+    "open_issues_count": 38,
     "forks_count": 44
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 1424,
+    "stargazers_count": 1438,
     "open_issues_count": 52,
-    "forks_count": 119
+    "forks_count": 121
   },
   {
     "full_name": "whoisryosuke/solid-skia-renderer",
@@ -55,45 +55,45 @@
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 15417,
-    "open_issues_count": 106,
-    "forks_count": 724
+    "stargazers_count": 15435,
+    "open_issues_count": 108,
+    "forks_count": 726
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 634,
-    "open_issues_count": 9,
-    "forks_count": 31
+    "stargazers_count": 671,
+    "open_issues_count": 11,
+    "forks_count": 33
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 26579,
-    "open_issues_count": 2363,
-    "forks_count": 946
+    "stargazers_count": 26648,
+    "open_issues_count": 2366,
+    "forks_count": 952
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 21799,
-    "open_issues_count": 97,
-    "forks_count": 1020
+    "stargazers_count": 21962,
+    "open_issues_count": 88,
+    "forks_count": 1036
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 4447,
-    "open_issues_count": 12,
-    "forks_count": 88
+    "stargazers_count": 4455,
+    "open_issues_count": 13,
+    "forks_count": 90
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 8612,
-    "open_issues_count": 11,
-    "forks_count": 359
+    "stargazers_count": 8779,
+    "open_issues_count": 10,
+    "forks_count": 362
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 30735,
+    "stargazers_count": 30834,
     "open_issues_count": 33,
-    "forks_count": 1874
+    "forks_count": 1887
   },
   {
     "full_name": "eagerworks/sequelize-lambda-migrations",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 35694,
-    "open_issues_count": 441,
-    "forks_count": 840
+    "stargazers_count": 35773,
+    "open_issues_count": 382,
+    "forks_count": 845
   },
   {
     "full_name": "hoppergee/solidservice",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 23095,
-    "open_issues_count": 22,
-    "forks_count": 606
+    "stargazers_count": 23147,
+    "open_issues_count": 29,
+    "forks_count": 612
   },
   {
     "full_name": "thoughtbot/react-native-liftoff",
@@ -135,7 +135,7 @@
     "full_name": "JoshuaSenouf/gl-engine",
     "stargazers_count": 323,
     "open_issues_count": 2,
-    "forks_count": 43
+    "forks_count": 42
   },
   {
     "full_name": "alexdantas/sdl2-platformer",
@@ -145,14 +145,14 @@
   },
   {
     "full_name": "rust-lang/rfcs",
-    "stargazers_count": 4755,
-    "open_issues_count": 686,
-    "forks_count": 1411
+    "stargazers_count": 4766,
+    "open_issues_count": 687,
+    "forks_count": 1417
   },
   {
     "full_name": "google/mediapipe",
-    "stargazers_count": 19189,
+    "stargazers_count": 19224,
     "open_issues_count": 448,
-    "forks_count": 4034
+    "forks_count": 4044
   }
 ]
