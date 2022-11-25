@@ -7,7 +7,7 @@
   },
   {
     "full_name": "TheMasonX/UnityPCSS",
-    "stargazers_count": 616,
+    "stargazers_count": 617,
     "open_issues_count": 1,
     "forks_count": 75
   },
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 1835,
-    "open_issues_count": 14,
+    "stargazers_count": 1846,
+    "open_issues_count": 13,
     "forks_count": 87
   },
   {
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 6800,
+    "stargazers_count": 6809,
     "open_issues_count": 1,
-    "forks_count": 746
+    "forks_count": 751
   },
   {
     "full_name": "solidjs/solid-docs-next",
-    "stargazers_count": 80,
-    "open_issues_count": 36,
-    "forks_count": 44
+    "stargazers_count": 81,
+    "open_issues_count": 37,
+    "forks_count": 45
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 2372,
-    "open_issues_count": 97,
-    "forks_count": 170
+    "stargazers_count": 2424,
+    "open_issues_count": 105,
+    "forks_count": 176
   },
   {
     "full_name": "whoisryosuke/solid-skia-renderer",
@@ -55,44 +55,44 @@
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 15516,
+    "stargazers_count": 15535,
     "open_issues_count": 108,
-    "forks_count": 742
+    "forks_count": 744
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 908,
-    "open_issues_count": 7,
-    "forks_count": 53
+    "stargazers_count": 1033,
+    "open_issues_count": 11,
+    "forks_count": 59
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 27038,
-    "open_issues_count": 2393,
-    "forks_count": 963
+    "stargazers_count": 27118,
+    "open_issues_count": 2388,
+    "forks_count": 966
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 22712,
-    "open_issues_count": 56,
-    "forks_count": 1073
+    "stargazers_count": 22815,
+    "open_issues_count": 65,
+    "forks_count": 1077
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 4592,
+    "stargazers_count": 4623,
     "open_issues_count": 11,
-    "forks_count": 97
+    "forks_count": 101
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 9930,
-    "open_issues_count": 24,
-    "forks_count": 415
+    "stargazers_count": 10679,
+    "open_issues_count": 23,
+    "forks_count": 435
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 31166,
-    "open_issues_count": 29,
+    "stargazers_count": 31244,
+    "open_issues_count": 33,
     "forks_count": 1929
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 36189,
-    "open_issues_count": 403,
-    "forks_count": 858
+    "stargazers_count": 36253,
+    "open_issues_count": 411,
+    "forks_count": 862
   },
   {
     "full_name": "hoppergee/solidservice",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 23624,
-    "open_issues_count": 27,
-    "forks_count": 622
+    "stargazers_count": 23674,
+    "open_issues_count": 28,
+    "forks_count": 620
   },
   {
     "full_name": "thoughtbot/react-native-liftoff",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "JoshuaSenouf/gl-engine",
-    "stargazers_count": 323,
+    "stargazers_count": 321,
     "open_issues_count": 2,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "alexdantas/sdl2-platformer",
@@ -145,14 +145,14 @@
   },
   {
     "full_name": "rust-lang/rfcs",
-    "stargazers_count": 4804,
-    "open_issues_count": 687,
+    "stargazers_count": 4805,
+    "open_issues_count": 686,
     "forks_count": 1425
   },
   {
     "full_name": "google/mediapipe",
-    "stargazers_count": 19461,
-    "open_issues_count": 468,
-    "forks_count": 4096
+    "stargazers_count": 19509,
+    "open_issues_count": 467,
+    "forks_count": 4102
   }
 ]
