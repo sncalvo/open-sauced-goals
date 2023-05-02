@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "kubero-dev/kubero",
+    "stargazers_count": 652,
+    "open_issues_count": 6,
+    "forks_count": 30
+  },
+  {
     "full_name": "iway1/trpc-panel",
-    "stargazers_count": 312,
-    "open_issues_count": 20,
+    "stargazers_count": 318,
+    "open_issues_count": 21,
     "forks_count": 18
   },
   {
     "full_name": "eagerworks/next_gen_images",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Shopify/packwerk",
-    "stargazers_count": 1183,
-    "open_issues_count": 25,
+    "stargazers_count": 1186,
+    "open_issues_count": 26,
     "forks_count": 96
   },
   {
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "OrJDev/create-jd-app",
-    "stargazers_count": 541,
-    "open_issues_count": 1,
-    "forks_count": 24
+    "stargazers_count": 544,
+    "open_issues_count": 0,
+    "forks_count": 25
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 47182,
-    "open_issues_count": 1021,
-    "forks_count": 3980
+    "stargazers_count": 47386,
+    "open_issues_count": 1027,
+    "forks_count": 4005
   },
   {
     "full_name": "residentsummer/watoi",
@@ -67,8 +73,8 @@
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 2419,
-    "open_issues_count": 7,
+    "stargazers_count": 2430,
+    "open_issues_count": 6,
     "forks_count": 127
   },
   {
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 7234,
+    "stargazers_count": 7238,
     "open_issues_count": 3,
-    "forks_count": 940
+    "forks_count": 944
   },
   {
     "full_name": "solidjs/solid-docs-next",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 3404,
-    "open_issues_count": 175,
-    "forks_count": 261
+    "stargazers_count": 3417,
+    "open_issues_count": 178,
+    "forks_count": 262
   },
   {
     "full_name": "whoisryosuke/solid-skia-renderer",
@@ -103,45 +109,45 @@
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 17174,
+    "stargazers_count": 17199,
     "open_issues_count": 145,
-    "forks_count": 821
+    "forks_count": 820
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 2534,
-    "open_issues_count": 23,
-    "forks_count": 190
+    "stargazers_count": 2564,
+    "open_issues_count": 24,
+    "forks_count": 193
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 30908,
-    "open_issues_count": 2864,
-    "forks_count": 1116
+    "stargazers_count": 31005,
+    "open_issues_count": 2866,
+    "forks_count": 1121
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 29879,
-    "open_issues_count": 152,
-    "forks_count": 1514
+    "stargazers_count": 29957,
+    "open_issues_count": 143,
+    "forks_count": 1527
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 5851,
-    "open_issues_count": 31,
-    "forks_count": 155
+    "stargazers_count": 5876,
+    "open_issues_count": 33,
+    "forks_count": 156
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 16964,
-    "open_issues_count": 38,
-    "forks_count": 743
+    "stargazers_count": 17090,
+    "open_issues_count": 39,
+    "forks_count": 744
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 34267,
-    "open_issues_count": 46,
-    "forks_count": 2208
+    "stargazers_count": 34319,
+    "open_issues_count": 43,
+    "forks_count": 2215
   },
   {
     "full_name": "eagerworks/sequelize-lambda-migrations",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 40832,
+    "stargazers_count": 40909,
     "open_issues_count": 712,
-    "forks_count": 1069
+    "forks_count": 1072
   },
   {
     "full_name": "hoppergee/solidservice",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 27332,
-    "open_issues_count": 36,
-    "forks_count": 735
-  },
-  {
-    "full_name": "thoughtbot/react-native-liftoff",
-    "stargazers_count": 50,
-    "open_issues_count": 1,
-    "forks_count": 0
+    "stargazers_count": 27387,
+    "open_issues_count": 29,
+    "forks_count": 737
   }
 ]
