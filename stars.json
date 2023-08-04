@@ -1,15 +1,15 @@
 [
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 26028,
-    "open_issues_count": 563,
-    "forks_count": 1236
+    "stargazers_count": 26300,
+    "open_issues_count": 557,
+    "forks_count": 1245
   },
   {
     "full_name": "imartinez/privateGPT",
-    "stargazers_count": 34641,
-    "open_issues_count": 444,
-    "forks_count": 4340
+    "stargazers_count": 34844,
+    "open_issues_count": 449,
+    "forks_count": 4381
   },
   {
     "full_name": "franciscoaguirre/voxel-cone-tracing",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "kubero-dev/kubero",
-    "stargazers_count": 1136,
-    "open_issues_count": 6,
+    "stargazers_count": 1149,
+    "open_issues_count": 7,
     "forks_count": 41
   },
   {
     "full_name": "iway1/trpc-panel",
-    "stargazers_count": 436,
+    "stargazers_count": 439,
     "open_issues_count": 31,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "eagerworks/next_gen_images",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "Shopify/packwerk",
-    "stargazers_count": 1247,
-    "open_issues_count": 27,
-    "forks_count": 104
+    "stargazers_count": 1260,
+    "open_issues_count": 28,
+    "forks_count": 106
   },
   {
     "full_name": "srsholmes/solid-code-input",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 5,
     "forks_count": 0
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 52381,
-    "open_issues_count": 1125,
-    "forks_count": 4543
+    "stargazers_count": 52554,
+    "open_issues_count": 1126,
+    "forks_count": 4567
   },
   {
     "full_name": "residentsummer/watoi",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 2687,
+    "stargazers_count": 2701,
     "open_issues_count": 5,
-    "forks_count": 142
+    "forks_count": 143
   },
   {
     "full_name": "ardeora/solid-query",
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 7524,
+    "stargazers_count": 7526,
     "open_issues_count": 4,
-    "forks_count": 1017
+    "forks_count": 1018
   },
   {
     "full_name": "solidjs/solid-docs-next",
     "stargazers_count": 128,
-    "open_issues_count": 39,
+    "open_issues_count": 35,
     "forks_count": 88
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 3674,
-    "open_issues_count": 203,
-    "forks_count": 285
+    "stargazers_count": 3689,
+    "open_issues_count": 206,
+    "forks_count": 289
   },
   {
     "full_name": "whoisryosuke/solid-skia-renderer",
@@ -127,45 +127,45 @@
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 18876,
+    "stargazers_count": 18890,
     "open_issues_count": 147,
     "forks_count": 1035
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 2987,
+    "stargazers_count": 3000,
     "open_issues_count": 25,
-    "forks_count": 226
+    "forks_count": 227
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 33042,
-    "open_issues_count": 2851,
+    "stargazers_count": 33106,
+    "open_issues_count": 2870,
     "forks_count": 1262
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 32314,
-    "open_issues_count": 217,
-    "forks_count": 1691
+    "stargazers_count": 32405,
+    "open_issues_count": 208,
+    "forks_count": 1696
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 6641,
-    "open_issues_count": 46,
-    "forks_count": 179
+    "stargazers_count": 6657,
+    "open_issues_count": 49,
+    "forks_count": 181
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 18833,
-    "open_issues_count": 42,
-    "forks_count": 809
+    "stargazers_count": 18884,
+    "open_issues_count": 41,
+    "forks_count": 814
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 35664,
-    "open_issues_count": 48,
-    "forks_count": 2325
+    "stargazers_count": 35714,
+    "open_issues_count": 42,
+    "forks_count": 2329
   },
   {
     "full_name": "eagerworks/sequelize-lambda-migrations",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 42845,
-    "open_issues_count": 973,
-    "forks_count": 1178
+    "stargazers_count": 42903,
+    "open_issues_count": 970,
+    "forks_count": 1185
   }
 ]
