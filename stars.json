@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nicoalbanese/kirimase",
-    "stargazers_count": 2177,
-    "open_issues_count": 75,
-    "forks_count": 94
+    "stargazers_count": 2179,
+    "open_issues_count": 77,
+    "forks_count": 96
   },
   {
     "full_name": "jackquinlan/blueprint",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 56726,
-    "open_issues_count": 1109,
-    "forks_count": 3031
+    "stargazers_count": 57034,
+    "open_issues_count": 1121,
+    "forks_count": 3056
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 51674,
-    "open_issues_count": 214,
-    "forks_count": 6887
+    "stargazers_count": 51769,
+    "open_issues_count": 219,
+    "forks_count": 6904
   },
   {
     "full_name": "franciscoaguirre/voxel-cone-tracing",
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "kubero-dev/kubero",
-    "stargazers_count": 2063,
-    "open_issues_count": 27,
-    "forks_count": 73
+    "stargazers_count": 2068,
+    "open_issues_count": 30,
+    "forks_count": 74
   },
   {
     "full_name": "iway1/trpc-panel",
     "stargazers_count": 597,
-    "open_issues_count": 41,
+    "open_issues_count": 43,
     "forks_count": 41
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "Shopify/packwerk",
-    "stargazers_count": 1489,
+    "stargazers_count": 1496,
     "open_issues_count": 42,
     "forks_count": 110
   },
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "OrJDev/create-jd-app",
-    "stargazers_count": 635,
+    "stargazers_count": 636,
     "open_issues_count": 0,
     "forks_count": 26
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 72756,
-    "open_issues_count": 1618,
-    "forks_count": 6512
+    "stargazers_count": 72955,
+    "open_issues_count": 1634,
+    "forks_count": 6533
   },
   {
     "full_name": "residentsummer/watoi",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 3239,
-    "open_issues_count": 7,
-    "forks_count": 162
+    "stargazers_count": 3247,
+    "open_issues_count": 11,
+    "forks_count": 163
   },
   {
     "full_name": "ardeora/solid-query",
@@ -121,20 +121,20 @@
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 7731,
+    "stargazers_count": 7733,
     "open_issues_count": 9,
     "forks_count": 980
   },
   {
     "full_name": "solidjs/solid-docs-next",
     "stargazers_count": 186,
-    "open_issues_count": 52,
-    "forks_count": 170
+    "open_issues_count": 50,
+    "forks_count": 171
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 4470,
-    "open_issues_count": 45,
+    "stargazers_count": 4478,
+    "open_issues_count": 42,
     "forks_count": 350
   },
   {
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 20207,
-    "open_issues_count": 184,
-    "forks_count": 957
+    "stargazers_count": 20214,
+    "open_issues_count": 185,
+    "forks_count": 956
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 3969,
-    "open_issues_count": 40,
-    "forks_count": 320
+    "stargazers_count": 4005,
+    "open_issues_count": 39,
+    "forks_count": 322
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 37165,
-    "open_issues_count": 3084,
+    "stargazers_count": 37203,
+    "open_issues_count": 3062,
     "forks_count": 1419
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 42285,
+    "stargazers_count": 42365,
     "open_issues_count": 129,
-    "forks_count": 2190
+    "forks_count": 2197
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 8423,
+    "stargazers_count": 8443,
     "open_issues_count": 46,
-    "forks_count": 235
+    "forks_count": 236
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 23299,
-    "open_issues_count": 45,
-    "forks_count": 1057
+    "stargazers_count": 23346,
+    "open_issues_count": 48,
+    "forks_count": 1061
   }
 ]
