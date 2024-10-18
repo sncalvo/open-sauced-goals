@@ -1,13 +1,13 @@
 [
   {
     "full_name": "rameerez/allgood",
-    "stargazers_count": 221,
+    "stargazers_count": 223,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "nicoalbanese/kirimase",
-    "stargazers_count": 2593,
+    "stargazers_count": 2599,
     "open_issues_count": 85,
     "forks_count": 118
   },
@@ -19,20 +19,20 @@
   },
   {
     "full_name": "kaspth/active_job-performs",
-    "stargazers_count": 143,
+    "stargazers_count": 145,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 71724,
-    "open_issues_count": 1118,
-    "forks_count": 4315
+    "stargazers_count": 72094,
+    "open_issues_count": 1124,
+    "forks_count": 4344
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 53890,
-    "open_issues_count": 235,
+    "stargazers_count": 53925,
+    "open_issues_count": 238,
     "forks_count": 7247
   },
   {
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "kubero-dev/kubero",
-    "stargazers_count": 2604,
-    "open_issues_count": 46,
-    "forks_count": 101
+    "stargazers_count": 2611,
+    "open_issues_count": 45,
+    "forks_count": 102
   },
   {
     "full_name": "iway1/trpc-panel",
-    "stargazers_count": 666,
+    "stargazers_count": 667,
     "open_issues_count": 46,
     "forks_count": 51
   },
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "Shopify/packwerk",
-    "stargazers_count": 1621,
-    "open_issues_count": 33,
+    "stargazers_count": 1629,
+    "open_issues_count": 34,
     "forks_count": 110
   },
   {
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "OrJDev/create-jd-app",
-    "stargazers_count": 666,
+    "stargazers_count": 668,
     "open_issues_count": 1,
     "forks_count": 26
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 82778,
-    "open_issues_count": 1904,
-    "forks_count": 7768
+    "stargazers_count": 82972,
+    "open_issues_count": 1883,
+    "forks_count": 7796
   },
   {
     "full_name": "residentsummer/watoi",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 3487,
+    "stargazers_count": 3491,
     "open_issues_count": 22,
     "forks_count": 175
   },
@@ -127,20 +127,20 @@
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 7788,
+    "stargazers_count": 7790,
     "open_issues_count": 11,
     "forks_count": 1019
   },
   {
     "full_name": "solidjs/solid-docs",
-    "stargazers_count": 218,
-    "open_issues_count": 53,
-    "forks_count": 255
+    "stargazers_count": 220,
+    "open_issues_count": 57,
+    "forks_count": 257
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 5121,
-    "open_issues_count": 74,
+    "stargazers_count": 5130,
+    "open_issues_count": 73,
     "forks_count": 376
   },
   {
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 21037,
-    "open_issues_count": 212,
-    "forks_count": 1011
+    "stargazers_count": 21052,
+    "open_issues_count": 217,
+    "forks_count": 1015
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 4606,
-    "open_issues_count": 49,
+    "stargazers_count": 4616,
+    "open_issues_count": 40,
     "forks_count": 393
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 39276,
-    "open_issues_count": 3260,
-    "forks_count": 1534
+    "stargazers_count": 39335,
+    "open_issues_count": 3259,
+    "forks_count": 1537
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 46164,
-    "open_issues_count": 146,
-    "forks_count": 2441
+    "stargazers_count": 46237,
+    "open_issues_count": 144,
+    "forks_count": 2443
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 9733,
-    "open_issues_count": 77,
-    "forks_count": 276
+    "stargazers_count": 9760,
+    "open_issues_count": 78,
+    "forks_count": 280
   }
 ]
