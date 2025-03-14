@@ -1,44 +1,44 @@
 [
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 49645,
-    "open_issues_count": 182,
-    "forks_count": 2646
+    "stargazers_count": 49716,
+    "open_issues_count": 178,
+    "forks_count": 2653
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 5095,
+    "stargazers_count": 5106,
     "open_issues_count": 50,
     "forks_count": 445
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 41470,
-    "open_issues_count": 2206,
-    "forks_count": 1653
+    "stargazers_count": 41518,
+    "open_issues_count": 2213,
+    "forks_count": 1659
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 21498,
+    "stargazers_count": 21513,
     "open_issues_count": 227,
-    "forks_count": 1060
+    "forks_count": 1059
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 5383,
-    "open_issues_count": 90,
-    "forks_count": 388
+    "stargazers_count": 5387,
+    "open_issues_count": 92,
+    "forks_count": 389
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 33165,
+    "stargazers_count": 33187,
     "open_issues_count": 121,
-    "forks_count": 953
+    "forks_count": 954
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 945,
     "open_issues_count": 0,
-    "forks_count": 1090
+    "forks_count": 1089
   }
 ]
