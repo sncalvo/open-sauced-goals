@@ -25,15 +25,15 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 90481,
-    "open_issues_count": 1721,
-    "forks_count": 6243
+    "stargazers_count": 90667,
+    "open_issues_count": 1719,
+    "forks_count": 6267
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 56211,
+    "stargazers_count": 56235,
     "open_issues_count": 275,
-    "forks_count": 7542
+    "forks_count": 7543
   },
   {
     "full_name": "franciscoaguirre/voxel-cone-tracing",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "kubero-dev/kubero",
-    "stargazers_count": 3584,
-    "open_issues_count": 52,
+    "stargazers_count": 3594,
+    "open_issues_count": 51,
     "forks_count": 155
   },
   {
     "full_name": "iway1/trpc-panel",
     "stargazers_count": 723,
     "open_issues_count": 47,
-    "forks_count": 61
+    "forks_count": 62
   },
   {
     "full_name": "eagerworks/next_gen_images",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 103197,
-    "open_issues_count": 2216,
-    "forks_count": 10211
+    "stargazers_count": 103381,
+    "open_issues_count": 2218,
+    "forks_count": 10243
   },
   {
     "full_name": "residentsummer/watoi",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 3826,
+    "stargazers_count": 3828,
     "open_issues_count": 21,
     "forks_count": 189
   },
@@ -127,20 +127,20 @@
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 7877,
-    "open_issues_count": 15,
-    "forks_count": 1060
+    "stargazers_count": 7874,
+    "open_issues_count": 16,
+    "forks_count": 1059
   },
   {
     "full_name": "solidjs/solid-docs",
     "stargazers_count": 250,
-    "open_issues_count": 57,
-    "forks_count": 319
+    "open_issues_count": 58,
+    "forks_count": 318
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 5562,
-    "open_issues_count": 119,
+    "stargazers_count": 5565,
+    "open_issues_count": 124,
     "forks_count": 395
   },
   {
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 21928,
-    "open_issues_count": 195,
-    "forks_count": 1104
+    "stargazers_count": 21939,
+    "open_issues_count": 191,
+    "forks_count": 1105
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 5411,
+    "stargazers_count": 5421,
     "open_issues_count": 55,
     "forks_count": 482
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 42791,
-    "open_issues_count": 2331,
-    "forks_count": 1784
+    "stargazers_count": 42825,
+    "open_issues_count": 2324,
+    "forks_count": 1787
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 52122,
-    "open_issues_count": 251,
-    "forks_count": 2811
+    "stargazers_count": 52199,
+    "open_issues_count": 256,
+    "forks_count": 2816
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 11368,
-    "open_issues_count": 59,
-    "forks_count": 331
+    "stargazers_count": 11413,
+    "open_issues_count": 60,
+    "forks_count": 334
   }
 ]
